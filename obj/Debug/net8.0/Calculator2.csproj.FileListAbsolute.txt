@@ -1,0 +1,14 @@
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\bin\Debug\net8.0\Calculator2.exe
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\bin\Debug\net8.0\Calculator2.deps.json
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\bin\Debug\net8.0\Calculator2.runtimeconfig.json
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\bin\Debug\net8.0\Calculator2.dll
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\bin\Debug\net8.0\Calculator2.pdb
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfoInputs.cache
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\Calculator2.AssemblyInfo.cs
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\Calculator2.dll
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\refint\Calculator2.dll
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\Calculator2.pdb
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\Calculator2.genruntimeconfig.cache
+C:\Users\ismail\Desktop\C# Certification\MyProjects\Project 2.1 - calculator2\Calculator2\obj\Debug\net8.0\ref\Calculator2.dll
